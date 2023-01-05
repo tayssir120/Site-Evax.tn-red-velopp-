@@ -1,0 +1,20 @@
+//types for LoginEvax
+export const LOGIN_EVAX_REQUEST = "LOGIN_EVAX_REQUEST";
+export const LOGIN_EVAX_SUCCESS = "LOGIN_EVAX_SUCCESS";
+export const LOGIN_EVAX_FAILURE = "LOGIN_EVAX_FAILURE";
+
+//types for LoginCode
+export const LOGIN_CODE_REQUEST = "LOGIN_CODE_REQUEST";
+export const LOGIN_CODE_SUCCESS = "LOGIN_CODE_SUCCESS";
+export const LOGIN_CODE_FAILURE = "LOGIN_CODE_FAILURE";
+
+//types for PersonInformation
+export const LOGIN_PERSON_REQUEST = "LOGIN_PERSON_REQUEST";
+export const LOGIN_PERSON_SUCCESS = "LOGIN_PERSON_SUCCESS";
+export const LOGIN_PERSON_FAILURE = "LOGIN_PERSON_FAILURE";
+
+
+//types for updating informations
+export const LOGIN_UPDATE_REQUEST = "LOGIN_UPDATE_REQUEST";
+export const LOGIN_UPDATE_SUCCESS = "LOGIN_UPDATE_SUCCESS";
+export const LOGIN_UPDATE_FAILURE = "LOGIN_UPDATE_FAILURE";

@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+}
+#container_dashboard{
+    margin: 13% 25%;
+    border: solid black 1px;
+    padding: 5%;
+    width: 50%;
+    border-radius: 5%;
+
+}

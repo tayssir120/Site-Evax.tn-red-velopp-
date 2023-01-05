@@ -1,0 +1,12 @@
+export const FETCH_LIST_JPO_REQUEST = "FETCH_LIST_JPO_REQUEST";
+export const FETCH_LIST_JPO_SUCCESS = "FETCH_LIST_JPO_SUCCESS";
+export const FETCH_LIST_JPO_FAILURE = "FETCH_LIST_JPO_FAILURE";
+
+export const DELETE_JPO = "DELETE_JPO";
+
+export const UPDATE_JPO = "UPDATE_JPO";
+
+export const ADD_JPO = "ADD_JPO";
+
+export const RESET_JPO = "RESET_JPO";
+

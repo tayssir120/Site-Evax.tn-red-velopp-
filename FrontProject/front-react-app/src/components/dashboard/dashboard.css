@@ -1,0 +1,10 @@
+
+.container_dashboard{
+
+    
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+    margin: 1%;
+}

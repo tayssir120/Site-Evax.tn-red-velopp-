@@ -1,0 +1,61 @@
+.body {
+  background-color: rgb(248, 245, 245);
+}
+
+.conteneur {
+  width: 90%;
+  margin: 10px;
+}
+.conteneur-flex {
+  display: flex;
+  flex-flow: row wrap;
+  margin: -10px;
+}
+.Link {
+  flex: 0 0 25%;
+  padding: 20px 0px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 4%;
+  border: none;
+}
+
+.icon{
+    font-size: '50px';
+    color: rgb(190, 4, 4)
+}
+
+.oblg{
+  color: red;
+}
+
+.btn{
+  color: rgb(190, 4, 4)
+}
+.form-container{
+  margin-left: 200px;
+  margin-right: 200px;
+  border-bottom: 1px solid rgb(248, 245, 245);
+}
+h3{
+  margin-top: 0px;
+  text-align: center;
+  font-size: 25px;
+}
+.container {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.buttons{  
+  display: inline-block !important;
+   
+}
+.header{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image:linear-gradient(rgba(41, 40, 40, 0.5), rgba(41, 40, 40, 0.5)), url(https://www.paho.org/sites/default/files/styles/max_650x650/public/card/2021-02/covid-19-vaccine-789x367.jpg?itok=ZKq-BWeV)
+}
+
+tr, td{
+  padding-top: 0px;
+}

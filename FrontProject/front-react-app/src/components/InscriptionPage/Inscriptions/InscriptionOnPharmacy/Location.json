@@ -1,0 +1,104 @@
+{
+  "gouvernorate": [
+    {
+      "name": "Tunis",
+      "delegation": [
+        {
+          "name": "Le Bardo",
+          "commun": [
+            {
+              "name": "Le Bardo Nord",
+              "pharmacy": [
+                {
+                  "name": "Pharmacie de nuit du Bardo Maher Guiga",
+                  "address": "26bis avenue Habib Bourguiba le Bardo 2000"
+                },
+                {
+                  "name": "Pharmacie Majed Turki",
+                  "address": "129 Boulevard 20 Mars -Bardo"
+                }
+              ]
+            },
+            {
+              "name": "Bouchoucha",
+              "pharmacy": [
+                {
+                  "name": "Pharmacie Bouchoucha",
+                  "address": "Avenue Bouchoucha le Bardo 2000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "La Marsa",
+          "commun": [
+            {
+              "name": "La Marsa Medina",
+              "pharmacy": [
+                {
+                  "name": "Pharmacie ZIED NAJAR",
+                  "address": "16 avenue de l'independance"
+                },
+                {
+                  "name": "Pharmacie zmerli",
+                  "address": "3 place moncef bey la marsa"
+                }
+              ]
+            },
+            {
+              "name": "Marsa Erriadh",
+              "pharmacy": [
+                {
+                  "name": "Pharmacie Ben Fadhloun samy",
+                  "address": "rue du stade"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bizerte",
+      "delegation": [
+        {
+          "name": "Bizerte Nord",
+          "commun": [
+            {
+              "name": "15 Octobre",
+              "pharmacy": [
+                {
+                  "name": "Pharmacie Halima souissi sellami",
+                  "address": "avenue 15 octobre el Raouebi"
+                },
+                {
+                  "name": "Pharmacie BEL KAHIA FAYCAL",
+                  "address": "PLACE H'MAIED SADKAOUI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bizerte Sud",
+          "commun": [
+            {
+              "name": "Cité Jalaa",
+              "pharmacy": [
+                {
+                  "name": "Pharmacie de nuit abouda abderrazek",
+                  "address": "Avenue 14 janvier bizerte 7000"
+                },
+                {
+                  "name": "Pharmacie MUSTAPHA LAROUSSI",
+                  "address": "Route Menzel bourguiba"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
